@@ -105,7 +105,7 @@ title: 数词应用
     <dd>万</dd>
   </dl>
   <dl class="gloss">
-    <dt>pšaʼlersëi vralörs</dt>
+    <dt>pšaʼlersëi vralörsüň</dt>
     <dd>带3460</dd>
   </dl>
   <div class="glend">72,79,03,53,34,60 或 7279,0353,3460</div>
