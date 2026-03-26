@@ -85,7 +85,7 @@ title: 数词应用
     <dd>又79</dd>
   </dl>
   <dl class="gloss">
-    <dt>wakẓui</dt>
+    <dt>akẓalui</dt>
     <dd>亿</dd>
   </dl>
   <dl class="gloss">
@@ -101,7 +101,7 @@ title: 数词应用
     <dd>又53</dd>
   </dl>
   <dl class="gloss">
-    <dt>wapcui</dt>
+    <dt>apcalui</dt>
     <dd>万</dd>
   </dl>
   <dl class="gloss">
