@@ -13,8 +13,8 @@ actions:
   - text: 同人教学
     link: ./tutorial/
 
-  - text: 过往档案
-    link: /past/
+  - text: 社区补助
+    link: /en/sup/
 
 features:
   - title: New Ithkuil 官网

@@ -16,27 +16,23 @@ export const zhSidebar = sidebar({
         },
       ],
     },
-    {
+  ],
+    "/turorial": [
+  {
       text: "同人教学",
-      prefix: "tutorial/",
       link: "tutorial/readme.md",
       children: [
         "beginner","numerals","loanwords","idioms","old"
       ],
     },
-/*     {
-      // icon: "discover",
-      text: "案例",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
+  ],
+  "/en/sup": [
     {
-      text: "文档",
-      // icon: "note",
-      prefix: "guide/",
-      children: "structure",
+      text: "社区补助",
+      link: "en/sup/",
+      // children: [
+      //   "beginner","numerals","loanwords","idioms","old"
+      // ],
     },
-    "slides", */
   ],
 });

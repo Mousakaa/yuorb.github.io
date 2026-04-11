@@ -11,10 +11,10 @@ actions:
     type: primary
 
   - text: チュートリアル
-    link: /ja/tutorial/
+    link: /tutorial/
 
-  - text: アーカイブ
-    link: /ja/past/
+  - text: サプリメント
+    link: /en/sup/
 
 features:
   - title: イスクイル公式サイト

@@ -1,11 +1,9 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const frSidebar = sidebar({
-  "/fr/": [
-    "",
+  "/fr/docs": [
     {
       text: "Grammaire",
-      prefix: "docs/",
       link: "docs/readme.md",
       children: [
         "term",
@@ -24,5 +22,8 @@ export const frSidebar = sidebar({
         "beginner","numerals","loanwords","idioms","old"
       ],
     }, */
+  ],
+  "/en/sup": [
+    "",
   ],
 });

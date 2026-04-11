@@ -13,8 +13,8 @@ actions:
   - text: Tutoriels
     link: /tutorial/
 
-  - text: Archives
-    link: /past/
+  - text: Suppléments
+    link: /en/sup/
 
 features:
   - title: Site officiel du Nouvel Ithkuil

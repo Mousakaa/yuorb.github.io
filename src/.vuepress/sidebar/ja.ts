@@ -1,8 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const jaSidebar = sidebar({
-  "/ja/": [
-    "",
+  "/ja/docs": [
     {
       text: "新イスクイル文法書",
       prefix: "docs/",
@@ -16,27 +15,17 @@ export const jaSidebar = sidebar({
         },
       ],
     },
-    {
+  ],
+  "/turorial": [
+  {
       text: "チュートリアル",
-      prefix: "tutorial/",
       link: "tutorial/readme.md",
       children: [
         "beginner","numerals","loanwords","idioms","old"
       ],
     },
-/*     {
-      // icon: "discover",
-      text: "案例",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "文档",
-      // icon: "note",
-      prefix: "guide/",
-      children: "structure",
-    },
-    "slides", */
+  ],
+  "/en/sup": [
+    "",
   ],
 });
