@@ -19,7 +19,7 @@ export const jaSidebar = sidebar({
   "/turorial": [
   {
       text: "チュートリアル",
-      link: "tutorial/readme.md",
+      link: "",
       children: [
         "beginner","numerals","loanwords","idioms","old"
       ],
