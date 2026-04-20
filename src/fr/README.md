@@ -6,7 +6,7 @@ heroImage: /logo.svg
 heroText: Yuorb
 tagline: Édition révisée par la Communauté de Grammaire du Nouvel Ithkuil
 actions:
-  - text: Documents officiels révisés 💡
+  - text: Documents Officiels Révisés 💡
     link: ./docs/
     type: primary
 
@@ -17,17 +17,17 @@ actions:
     link: /en/sup/
 
 features:
-  - title: Site officiel du Nouvel Ithkuil
+  - title: Site Officiel du Nouvel Ithkuil
     icon: fas fa-book-open-reader
     details: Le texte original
     link: http://www.ithkuil.net
 
   - title: Discord
     icon: fab fa-discord
-    details: Un serveur le plus actif d’Ithkuil
+    details: Le serveur le plus actif d’Ithkuil
     link: https://discord.gg/PMzFpYJ
 
-  - title: Serveur japonais de Discord
+  - title: Serveur Discord japonais
     icon: fab fa-discord
     details: Un serveur d’Ithkuil pour les japonais
     link: https://discord.gg/8ACHfqNwwb
